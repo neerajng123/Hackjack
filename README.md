@@ -16,7 +16,7 @@ Hackjack is a professional bash script that generates extensive password lists (
 
 ```bash
 # Download the script
-git clone 
+git clone https://github.com/neerajng123/Hackjack.git
 
 # Make it executable
 chmod +x create.sh
